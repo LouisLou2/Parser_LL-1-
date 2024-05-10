@@ -1,0 +1,19 @@
+# ninja log v5
+1	14	0	clean	94eb5120419ed6fe
+5	1325	7370291804424192	CMakeFiles/CMakeTarget.dir/parser_LL(1).cpp.obj	a8bc21a4f87a1631
+2	1118	7370454663512203	CMakeFiles/CMakeTarget.dir/refer/first_follow.cpp.obj	ee719bce0cec7bc4
+2393	2804	7370629386581409	CMakeTarget.exe	615bd8ea614c92ed
+18	157	7370429402948273	CMakeFiles/CMakeTarget.dir/resolve_tool.cpp.obj	73e213c53521e1b5
+25	862	7370429410005382	CMakeFiles/CMakeTarget.dir/structures.cpp.obj	3db2331c8ed99d4d
+4	2393	7370629382972684	CMakeFiles/CMakeTarget.dir/parser2.cpp.obj	e2bd510acecdbeb3
+3	1051	7370628002533416	CMakeFiles/CMakeTarget.dir/main.cpp.obj	677db19a05d620fa
+2	20	0	clean	94eb5120419ed6fe
+26	205	7370629894528852	CMakeFiles/CMakeTarget.dir/resolve_tool.cpp.obj	73e213c53521e1b5
+3	1108	7370629903541393	CMakeFiles/CMakeTarget.dir/main.cpp.obj	677db19a05d620fa
+14	1924	7370629911537395	CMakeFiles/CMakeTarget.dir/parser2.cpp.obj	e2bd510acecdbeb3
+36	1954	7370629911867033	CMakeFiles/CMakeTarget.dir/refer/first_follow.cpp.obj	ee719bce0cec7bc4
+1954	2369	7370629915382245	CMakeTarget.exe	46b80f189cbed69e
+5	1965	7370631428743338	CMakeFiles/CMakeTarget.dir/parser2.cpp.obj	e2bd510acecdbeb3
+1966	2304	7370631431660452	CMakeTarget.exe	46b80f189cbed69e
+3	2204	7370631856164584	CMakeFiles/CMakeTarget.dir/parser2.cpp.obj	e2bd510acecdbeb3
+2205	2677	7370631860389818	CMakeTarget.exe	46b80f189cbed69e
